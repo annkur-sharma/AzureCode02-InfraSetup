@@ -1,5 +1,5 @@
 # AzureCode02-InfraSetup
-AzureCode02-InfraSetup - To setup RG, Vnet, Subnet, NIC, NSG, Public IP, VM, SQL Server, SQL Database by providing static values.
+AzureCode02-InfraSetup - To setup RG, Vnet, Subnet, NIC, NSG, Public IP, VM, SQL Server, SQL Database by providing static values in *.tfvars file.
 
 ## Step 01 - Update backend configuration in the below mentioned file.
 #### ✅ Update the values to be used to backend configuration.
